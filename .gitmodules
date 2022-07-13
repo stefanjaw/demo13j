@@ -1,0 +1,12 @@
+[submodule "l10n_cr_einvoice"]
+	path = l10n_cr_einvoice
+	url = https://github.com/stefanjaw/l10n_cr_einvoice.git
+	branch = odoov13nz
+[submodule "l10n_cr_zones"]
+	path = l10n_cr_zones
+	url = https://github.com/stefanjaw/l10n_cr_zones.git
+	branch = odoo_v13
+[submodule "bccr_odoo"]
+	path = bccr_odoo
+	url = https://github.com/stefanjaw/bccr_odoo.git
+	branch = odoov14
